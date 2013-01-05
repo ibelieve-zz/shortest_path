@@ -1,4 +1,5 @@
 #the makefile for shortestPath
+#using gcc to compile it
 
 all : shortestPath
 
