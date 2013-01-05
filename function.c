@@ -1,4 +1,3 @@
-
 /*************************************************
  * File Name: function.c
  * Dependent file: function.h
